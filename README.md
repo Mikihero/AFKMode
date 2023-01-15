@@ -3,7 +3,7 @@
 An SCP:SL EXILED plugin that allows any player to turn on overwatch via a client console command.
 # Permissions
 - am.ow - allows usage of the overwatch command
-# Default Config:
+# Default Config
 ```yaml
 a_f_k_mode:
   # Whether or not the plugin should be enabled.
