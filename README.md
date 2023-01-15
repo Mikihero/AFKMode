@@ -1,3 +1,4 @@
+<a href="https://github.com/Mikihero/AFKMode/releases"><img src="https://img.shields.io/github/downloads/Mikihero/AFKMode/total?label=Downloads" alt="Downloads"></a>  
 # AFKMode
 An SCP:SL EXILED plugin that allows any player to turn on overwatch via a client console command.
 # Permissions
